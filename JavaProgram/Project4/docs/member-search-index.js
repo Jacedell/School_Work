@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"utils","c":"TextKit","l":"lineOfStars(int)"},{"p":"utils","c":"TextKit","l":"pad(int, int)","url":"pad(int,int)"},{"p":"utils","c":"TextKit","l":"TextKit()","url":"%3Cinit%3E()"}]
